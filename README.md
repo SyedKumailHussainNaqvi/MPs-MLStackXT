@@ -35,7 +35,7 @@ Please cite the following article if you find our work helpful:
  K. Shahzad, S.K.H. Naqvi, A. Hussain, R. Irshad, K.T. Chong & S. H. Park.  
 Machine Learning-Driven Microplastics Identification Using Ensemble Stacking with Extra Tree Meta-Models from FTIR Data.  
 Journal of Environmental Chemical Engineering (2025).  
-[https://doi.org/10.1016/j.jece.2025.118315]([https://](https://doi.org/10.1016/j.jece.2025.118315)) 
+[https://doi.org/10.1016/j.jece.2025.118315](https://doi.org/10.1016/j.jece.2025.118315)) 
 
 ## Questions / Contact
 If you have any questions, feel free to open an issue on this repository or reach out to us directly:  
