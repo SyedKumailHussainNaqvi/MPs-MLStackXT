@@ -1,4 +1,4 @@
-# [MPs-MLStackXT:Machine Learning-Driven Microplastics Identification Using Ensemble Stacking with Extra Tree Meta-Models from FTIR Data] (https://doi.org/10.1016/j.jece.2025.118315))  
+# [MPs-MLStackXT:Machine Learning-Driven Microplastics Identification Using Ensemble Stacking with Extra Tree Meta-Models from FTIR Data](https://doi.org/10.1016/j.jece.2025.118315))  
 
 Implementation of MPs-MLStackXT, by Syed Kumail Hussain Naqvi & Co. authors.
 
