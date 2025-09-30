@@ -29,3 +29,14 @@ Confusion matrix analysis confirmed a significant reduction in misclassification
 
 Model optimization via **Optuna** and interpretability analysis using **SHAP** highlighted the influence of **PCA** and key spectral features on classification performance.  
 In addition, MLStackXT outperformed various stacking configurations, demonstrating its robustness and effectiveness for MPs detection.  
+## Citation
+Please cite the following article if you find our work helpful:
+
+ K. Shahzad, S.K.H. Naqvi, A. Hussain, R. Irshad, K.T. Chong & S. H. Park.  
+Machine Learning-Driven Microplastics Identification Using Ensemble Stacking with Extra Tree Meta-Models from FTIR Data.  
+Journal of Environmental Chemical Engineering (2025).  
+[https://doi.org/10.1016/j.jece.2025.118315]([https://](https://doi.org/10.1016/j.jece.2025.118315)) 
+
+## Questions / Contact
+If you have any questions, feel free to open an issue on this repository or reach out to us directly:  
+[syedkumailhussainnaqvi@jbnu.ac.kr](mailto:syedkumailhussainnaqvi@jbnu.ac.kr)
